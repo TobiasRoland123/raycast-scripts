@@ -2,11 +2,11 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title KMD start apps
+# @raycast.title Webdesam start apps
 # @raycast.mode compact
 
 # Optional parameters:
-# @raycast.icon images/kmd-logo.svg
+# @raycast.icon 💼
 
 # Documentation:
 # @raycast.description Opens a list of applications
@@ -15,17 +15,13 @@
 import subprocess
 
 apps = [
-    "Microsoft Outlook",
-    "slack",
+    "chatGPT",
+    "Codex",
     "Google Chrome",
-    "WebStorm",
+    "webstorm",
     "warp",
     "Notion",
-    "Codex",
-    "Beeper Desktop",
-    "ChatGPT",
-    "Microsoft Teams"
-
+    "Docker"
 ]
 
 for app in apps:
