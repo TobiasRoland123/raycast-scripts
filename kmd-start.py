@@ -16,16 +16,16 @@ import subprocess
 
 apps = [
     "Microsoft Outlook",
-    "slack",
-    "Google Chrome",
+    "Arc",
     "WebStorm",
-    "warp",
+    "Slack",
+    "Warp",
     "Notion",
     "Codex",
-    "Beeper Desktop",
     "ChatGPT",
-    "Microsoft Teams"
-
+    "Microsoft Teams",
+    "Docker Desktop",
+    "Cisco Secure Client",
 ]
 
 for app in apps:

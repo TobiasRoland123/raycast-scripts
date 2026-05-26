@@ -15,7 +15,7 @@
 import subprocess
 
 apps = [
-    "chatGPT",
+    "ChatGPT",
     "Codex",
     "Google Chrome",
     "webstorm",
