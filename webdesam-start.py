@@ -17,11 +17,10 @@ import subprocess
 apps = [
     "ChatGPT",
     "Codex",
-    "Google Chrome",
+    "Arc",
     "webstorm",
     "warp",
     "Notion",
-    "Docker"
 ]
 
 for app in apps:
