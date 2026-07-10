@@ -21,7 +21,6 @@ apps = [
     "Slack",
     "Warp",
     "Notion",
-    "Codex",
     "ChatGPT",
     "Microsoft Teams",
     "Docker Desktop",
