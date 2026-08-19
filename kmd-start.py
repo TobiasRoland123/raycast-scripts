@@ -17,7 +17,7 @@ import subprocess
 apps = [
     "Microsoft Outlook",
     "Zen",
-    "WebStorm",
+    "Zed",
     "Slack",
     "Warp",
     "Notion",
